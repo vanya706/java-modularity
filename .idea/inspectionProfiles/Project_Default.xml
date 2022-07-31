@@ -1,0 +1,168 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BindingAnnotationWithoutInject" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ConflictingAnnotations" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CucumberJavaStepDefClassInDefaultPackage" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CucumberJavaStepDefClassIsPublic" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Destructure" enabled="true" level="INFO" enabled_by_default="true" />
+    <inspection_tool class="DirectUseOfResultType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="FromClosedRangeMigration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="FtlCallsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="FtlDeprecatedBuiltInsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FtlFileReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="FtlImportCallInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="FtlReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FtlTypesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FtlWellformednessInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GherkinScenarioToScenarioOutline" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="Glassfish" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GoAssignmentToReceiver" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoBoolExpressions" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoBuildTag" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoCommentLeadingSpace" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoCommentStart" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoDeferGo" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoDeferInLoop" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoDeprecation" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoDisabledGopathIndexing" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoDivisionByZero" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoEmptyDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoErrorStringFormat" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoErrorsAs" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoExportedElementShouldHaveComment" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="GoExportedFuncWithUnexportedType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoExportedOwnDeclaration" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoImportUsedAsName" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoInfiniteFor" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoLoopClosure" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoNameStartsWithPackageName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoPreferNilSlice" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoPrintFunctions" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoReceiverNames" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantBlankArgInRange" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantComma" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantConversion" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantImportAlias" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantParens" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantSecondIndexInSlices" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantSemicolon" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoRedundantTypeDeclInCompositeLit" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoReservedWordUsedAsName" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoSelfAssignment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoShadowedVar" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="GoShift" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoSnakeCaseUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoStandardMethods" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoStringsReplaceCount" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoStructInitializationWithoutFieldNames" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoTestName" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnhandledErrorResult" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnitSpecificDurationSuffix" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnreachableCode" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnsortedImport" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedCallResult" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedConst" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedExportedFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedExportedType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedGlobalVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedParameter" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoUnusedType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVarAndConstTypeMayBeOmitted" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetAtomic" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetCopyLock" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetFailNowInNotTestGoroutine" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetImpossibleInterfaceToInterfaceAssertion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetIntToStringConversion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetLostCancel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetStructTag" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetUnmarshal" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoVetUnsafePointer" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HelmChartMissingKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="HelmChartUnknownKeys" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HelmChartUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="IncompleteDestructuring" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InterceptionAnnotationWithoutRuntimeRetention" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InvalidImplementedBy" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InvalidProvidedBy" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InvalidRequestParameters" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JBoss" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JavaFxColorRgb" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxDefaultTag" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxRedundantPropertyValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxResourcePropertyValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxUnresolvedFxIdReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxUnresolvedStyleClassReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxUnusedImports" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavadocReference" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="REPORT_INACCESSIBLE" value="false" />
+    </inspection_tool>
+    <inspection_tool class="KDocMissingDocumentation" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="KotlinLoggerInitializedWithForeignClass" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="KubernetesDeprecatedKeys" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="KubernetesDeprecatedResources" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="KubernetesDuplicatedEnvVars" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="KubernetesMissingKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="KubernetesNonEditableKeys" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="KubernetesNonEditableResources" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="KubernetesUnknownKeys" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="KubernetesUnknownResourcesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="KubernetesUnknownValues" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MissingFinalNewline" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MisspelledHeader" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="MultipleBindingAnnotations" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MultipleInjectedConstructorsForClass" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NonExhaustiveWhenStatementMigration" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="OraMissingBodyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraOverloadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraUnmatchedForwardDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PointlessBinding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ProhibitJvmOverloadsOnConstructorsOfAnnotationClassesMigration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ProhibitRepeatedUseSiteTargetAnnotationsMigration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ProhibitTypeParametersForLocalVariablesMigration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="ProhibitUseSiteTargetAnnotationsOnSuperTypesMigration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PublicApiImplicitType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="QsPrivateBeanMembersInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="QsProperties" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="QsUndeclaredPathMimeTypesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="QsYaml" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RedundantInnerClassModifier" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RedundantLabelMigration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="RedundantNotNullExtensionReceiverOfInline" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="RedundantScopeBinding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RedundantToBinding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RedundantToProviderBinding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ReplaceCollectionCountWithSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ReplaceNotNullAssertionWithElvisReturn" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="RestrictReturnStatementTargetMigration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SassScssUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SassScssUnresolvedPlaceholderSelector" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SassScssUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SessionScopedInjectsRequestScoped" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ShellCheck" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SingletonInjectsScoped" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SmallRyeConfigMappingMissingPrefixInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="UninstantiableBinding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UninstantiableImplementedByClass" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UninstantiableProvidedByClass" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessaryStaticInjection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnusedMainParameter" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="VgoUnusedDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="WarningOnMainUnusedParameterMigration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="WhenWithOnlyElse" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  </profile>
+</component>
