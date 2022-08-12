@@ -19,4 +19,6 @@ jobs:
       - name: Repo Star Count
         uses: alanhg/repo-star-count-action@1.0
       - name: show starts count via echo  
-        run: echo "$STARS"
+        run: echo STARS
+      - name: test again 
+        run: STARS
