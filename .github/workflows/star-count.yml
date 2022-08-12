@@ -11,7 +11,7 @@ on:
 jobs:
   job:
     outputs:
-      output1: ${{steps.repo-stars.outputs.stars}}
+      stars: ${{steps.repo-stars.outputs.stars}}
     runs-on: ubuntu-latest
     steps:
       - name: Repo Star Count
