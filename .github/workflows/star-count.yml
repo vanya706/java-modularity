@@ -1,20 +1,18 @@
-# This is a basic workflow to help you get started with Actions
 
 name: Star Count
-# Controls when the workflow will run
+
 on:
+  workflow_dispatch:
+  
   issues:
     types:
       - opened
-      
-  workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   job:
-    # The type of runner that the job will run on
+    outputs:
+      output1: ${{steps.repo-stars.outputs.stars}}
     runs-on: ubuntu-latest
-
     steps:
       - name: Repo Star Count
         id: repo-stars
