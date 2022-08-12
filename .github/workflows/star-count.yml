@@ -1,13 +1,19 @@
 
 name: Star Count
 
+
+
 on:
   workflow_dispatch:
   
   issues:
     types:
       - opened
-
+  workflow_call:
+    outputs:
+      stars:
+       value: ${{jobs.job.outputs.stars}}
+  
 jobs:
   job:
     outputs:
