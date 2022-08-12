@@ -17,4 +17,4 @@ jobs:
 
     steps:
       - name: Repo Star Count
-      - uses: alanhg/repo-star-count-action@1.0
+        uses: alanhg/repo-star-count-action@1.0
