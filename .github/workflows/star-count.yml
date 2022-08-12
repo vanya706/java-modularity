@@ -4,11 +4,13 @@ name: Star Count
 
 
 on:
+
   workflow_dispatch:
   
   issues:
     types:
       - opened
+      
   workflow_call:
     outputs:
       stars:
@@ -23,3 +25,5 @@ jobs:
       - name: Repo Star Count
         id: repo-stars
         uses: alanhg/repo-star-count-action@master
+      - name: Show stars count
+        run: echo Stars amount is ${{steps.repo-stars.outputs.stars}}
